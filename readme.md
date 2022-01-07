@@ -1,4 +1,4 @@
-## Problem
+# Problem
 A major problem at many companies is identity governance. Each day, there are thousands of requests to company entitlements like the built-in VPN service, Zoom, codebase, etc. and HR representatives have to sort through the requests and figure out whether to accept or deny the account-entitlement pairing. Currently, there are rule-based and AI solutions to this problem that automatically identify whether an account-entitlement pairing should be accepted, but they have rarely been combined. As a solution, we created a maleable pipeline for [ClearSkye] (https://clearskye.com/) that harnesses a rule-based and machine learning approach in order to provide assistance in access management.
 
 ## Rule-based Approach
